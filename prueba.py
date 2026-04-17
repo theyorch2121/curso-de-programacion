@@ -1,1 +1,1 @@
-print ("si miras eres chavista")
+print ("hola soy bata")
